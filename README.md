@@ -64,7 +64,5 @@ streamlit run app.py
 - 💻 [GitHub](https://github.com/Brilliantkiptoo)
 - 📧 Email: [brilliantkip@gmail.com](mailto:brilliantkip@gmail.com)
 
-💼  **[Click here for LinkedIn](https://www.linkedin.com/in/brilliant-kiptoo)**
-💻 **[Click here for GitHub](https://github.com/Brilliantkiptoo)**
-📧 **[Click here for Email](brilliantkip@gmail.com](mailto:brilliantkip@gmail.com)**
+
 
