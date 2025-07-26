@@ -41,16 +41,16 @@ My goal is to transform raw data into **actionable insights** and **intuitive in
 
 ## 🚀 How to Run This App
 
-👉 **[Click here to view the repository](https://github.com/Brilliantkiptoo/data-science-portfolio)**
+👉 **[Click here to view the repository](https://github.com/Brilliantkiptoo/portfolio)**
 
 Then follow these steps to run the Streamlit app locally:
 
 ```bash
 # Clone the repo
-git clone https://github.com/Brilliantkiptoo/data-science-portfolio.git
+git clone https://github.com/Brilliantkiptoo/portfolio.git
 
 # Navigate into the project folder
-cd data-science-portfolio
+cd portfolio
 
 # Install required packages
 pip install -r requirements.txt
