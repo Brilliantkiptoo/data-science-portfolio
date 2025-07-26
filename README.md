@@ -1,52 +1,59 @@
-# Brilliant's Data Science Portfolio
+# 📊 Brilliant's Data Science Portfolio
 
-Welcome to my personal portfolio website, built using [Streamlit](https://streamlit.io/)!  
-This site showcases my latest data science and machine learning projects, including NLP apps, analytics dashboards, and more.
+Welcome to my personal portfolio website, built using **Streamlit**!  
+This site showcases my latest data science and machine learning projects — including NLP apps, analytics dashboards, and interactive reports.
 
 ---
 
 ## 👋 About Me
 
-Hi, I'm **Brill** — a data scientist/data analyst with a strong interest in:
+Hi, I'm **Brill**, a data scientist / data analyst with a strong interest in:
 
-- Natural Language Processing (NLP)
-- Machine Learning
-- Data storytelling and visualizations
-- Real-time data apps with Python
+- 🔠 Natural Language Processing (NLP)
+- 🤖 Machine Learning
+- 📈 Data storytelling & visualizations
+- ⚡ Real-time data apps with Python
 
-My mission is to transform raw data into actionable insights and beautiful interfaces.
+My mission is to transform raw data into **actionable insights** and **beautiful interfaces**.
 
 ---
 
 ## 📁 Featured Projects
 
-### [📊 Financial Sentiment Analysis Web App](https://github.com/Brilliantkiptoo/NLP-Group10)
+### 📊 [Financial Sentiment Analysis Web App](https://github.com/Brilliantkiptoo/sentiment-analysis)
 A Streamlit app for real-time sentiment analysis of financial news using fine-tuned BERT models.
 
-### [💱 Currency Converter App](https://github.com/Brilliantkiptoo/currency-converter)
-Web app that converts currencies using live exchange rates via the Frankfurter API.
+### 💱 [Currency Converter App](https://github.com/Brilliantkiptoo/Information-Aggregator-with-Web-API-and-Scraping)
+Converts currencies using live exchange rates via the Frankfurter API and Streamlit.
 
-### [🎬 IMDB Sentiment Classifier](https://github.com/Brilliantkiptoo/IMDB-sentiment-analysis)
-A classifier trained on IMDB movie reviews using traditional NLP and ML techniques.
+### 🎬 [IMDB Sentiment Classifier](https://github.com/Brilliantkiptoo/IMDB-sentiment-analysis)
+A sentiment analysis classifier trained on IMDB movie reviews using traditional ML techniques.
 
-### [🎙️ Radio Talkshow Transcript Analyzer](https://github.com/Brilliantkiptoo/radio-talkshow-analyzer)
-An NLP project exploring themes and sentiment in Australian radio talkshow transcripts.
+### 🎙️ [Radio Talkshow Transcript Analyzer](https://github.com/Brilliantkiptoo/ABC-Talkshow-Transcript-Sentiment)
+An NLP project exploring topics and sentiment in Australian radio talkshow transcripts.
 
 ---
 
-## 🚀 How to Run This App
+## 📚 Project Reports
 
-To run the app locally:
+Explore more detailed reports categorized by topic:  
+🔗 [Project Reports Repository](https://github.com/Brilliantkiptoo/project-Reports)
+
+---
+
+## 🚀 How to Run This App Locally
+
+To run the Streamlit app on your machine:
 
 ```bash
-# Clone the repo
+# 1. Clone the repo
 git clone https://github.com/Brilliantkiptoo/data-science-portfolio.git
 
-# Navigate into the project folder
+# 2. Navigate into the project folder
 cd data-science-portfolio
 
-# Install dependencies
+# 3. Install dependencies
 pip install -r requirements.txt
 
-# Run the app
+# 4. Run the Streamlit app
 streamlit run app.py
