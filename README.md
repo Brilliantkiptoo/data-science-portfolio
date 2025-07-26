@@ -55,3 +55,9 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app.py
+## 📬 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/brilliant-kiptoo)
+- 💻 [GitHub](https://github.com/Brilliantkiptoo)
+- 📧 Email: [brilliantkip@gmail.com](mailto:brilliantkip@gmail.com)
+
