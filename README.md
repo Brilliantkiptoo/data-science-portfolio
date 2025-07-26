@@ -1,7 +1,7 @@
 # 📊 Brilliant's Data Science Portfolio
 
 Welcome to my personal portfolio website, built using **Streamlit**!  
-This site showcases my latest data science and machine learning reports, including ETL pipelines, predictive modeling, healthcare analytics, and more.
+This site showcases my latest data science and machine learning reports — including ETL pipelines, predictive modeling, healthcare analytics, and more.
 
 ---
 
@@ -41,7 +41,9 @@ My goal is to transform raw data into **actionable insights** and **intuitive in
 
 ## 🚀 How to Run This App
 
-To run the portfolio locally:
+👉 **[Click here to view the repository](https://github.com/Brilliantkiptoo/data-science-portfolio)**
+
+Then follow these steps to run the Streamlit app locally:
 
 ```bash
 # Clone the repo
@@ -60,4 +62,3 @@ streamlit run app.py
 - 💼 [LinkedIn](https://www.linkedin.com/in/brilliant-kiptoo)
 - 💻 [GitHub](https://github.com/Brilliantkiptoo)
 - 📧 Email: [brilliantkip@gmail.com](mailto:brilliantkip@gmail.com)
-
