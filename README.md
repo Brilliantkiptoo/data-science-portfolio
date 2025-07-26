@@ -1,59 +1,57 @@
 # 📊 Brilliant's Data Science Portfolio
 
 Welcome to my personal portfolio website, built using **Streamlit**!  
-This site showcases my latest data science and machine learning projects — including NLP apps, analytics dashboards, and interactive reports.
+This site showcases my latest data science and machine learning reports, including ETL pipelines, predictive modeling, healthcare analytics, and more.
 
 ---
 
 ## 👋 About Me
 
-Hi, I'm **Brill**, a data scientist / data analyst with a strong interest in:
+Hi, I'm **Brill**, a data scientist and data analyst with a strong interest in:
 
-- 🔠 Natural Language Processing (NLP)
-- 🤖 Machine Learning
-- 📈 Data storytelling & visualizations
-- ⚡ Real-time data apps with Python
+- 🔄 Data Engineering (ETL & Pipelines)  
+- 📈 Predictive Modeling & Machine Learning  
+- 🧠 Data Mining & Classification  
+- 📊 Data storytelling and visualization  
 
-My mission is to transform raw data into **actionable insights** and **beautiful interfaces**.
-
----
-
-## 📁 Featured Projects
-
-### 📊 [Financial Sentiment Analysis Web App](https://github.com/Brilliantkiptoo/sentiment-analysis)
-A Streamlit app for real-time sentiment analysis of financial news using fine-tuned BERT models.
-
-### 💱 [Currency Converter App](https://github.com/Brilliantkiptoo/Information-Aggregator-with-Web-API-and-Scraping)
-Converts currencies using live exchange rates via the Frankfurter API and Streamlit.
-
-### 🎬 [IMDB Sentiment Classifier](https://github.com/Brilliantkiptoo/IMDB-sentiment-analysis)
-A sentiment analysis classifier trained on IMDB movie reviews using traditional ML techniques.
-
-### 🎙️ [Radio Talkshow Transcript Analyzer](https://github.com/Brilliantkiptoo/ABC-Talkshow-Transcript-Sentiment)
-An NLP project exploring topics and sentiment in Australian radio talkshow transcripts.
+My goal is to transform raw data into **actionable insights** and **intuitive interfaces**.
 
 ---
 
 ## 📚 Project Reports
 
-Explore more detailed reports categorized by topic:  
-🔗 [Project Reports Repository](https://github.com/Brilliantkiptoo/project-Reports)
+### 🔄 **ETL & Data Pipelines**
+- [Advanced ELT Pipeline Construction with Airflow](https://github.com/Brilliantkiptoo/project-Reports/blob/main/Advanced%20ELT%20Pipeline%20Construction%20with%20Airflow%20-%20Copy.pdf)
+- [Data Lakehouse with Snowflake](https://github.com/Brilliantkiptoo/project-Reports/blob/main/Data%20Lakehouse%20with%20Snowflake.pdf)
+
+### 📈 **Predictive Modeling**
+- [Predictive Model to Forecast College Players' Selection](https://github.com/Brilliantkiptoo/project-Reports/blob/main/PREDICTIVE%20MODEL%20TO%20FORECAST%20COLLEGE%20PLAYERS'%20SELECTION%20.pdf)
+- [Predicting Diabetes Risk Factors Based on Dietary Intake (Group Project)](https://github.com/Brilliantkiptoo/project-Reports/blob/main/predicting%20the%20risk%20factors%20of%20diabetes%20based%20on%20the%20user's%20dietary%20intake-Group%20project.pdf)
+
+### 🧠 **Data Mining & Classification**
+- [Data Mining Problem](https://github.com/Brilliantkiptoo/project-Reports/blob/main/Data%20Mining%20Problem.pdf)
+- [Fraud Detection Using Data Mining and Classification Techniques](https://github.com/Brilliantkiptoo/project-Reports/blob/main/fraud%20Detection%20by%20applying%20data%20mining%20techniques%20and%20classification%20analysis.pdf)
+
+### 🏥 **Healthcare Analytics**
+- [Predicting Hospital Readmissions Using Machine Learning](https://github.com/Brilliantkiptoo/project-Reports/blob/main/Predicting%20Hospital%20Readmissions%20Using%20Machine%20Learning.pdf)
+
+🔗 [View All Reports Here](https://github.com/Brilliantkiptoo/project-Reports)
 
 ---
 
-## 🚀 How to Run This App Locally
+## 🚀 How to Run This App
 
-To run the Streamlit app on your machine:
+To run the portfolio locally:
 
 ```bash
-# 1. Clone the repo
+# Clone the repo
 git clone https://github.com/Brilliantkiptoo/data-science-portfolio.git
 
-# 2. Navigate into the project folder
+# Navigate into the project folder
 cd data-science-portfolio
 
-# 3. Install dependencies
+# Install required packages
 pip install -r requirements.txt
 
-# 4. Run the Streamlit app
+# Run the Streamlit app
 streamlit run app.py
