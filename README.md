@@ -60,6 +60,11 @@ streamlit run app.py
 
 ## 📬 Contact
 
+# Sidebar with contact info
+st.sidebar.title("📌 Connect with Me")
+st.sidebar.markdown("[💼 LinkedIn](https://www.linkedin.com/in/brilliant-kiptoo)")
+st.sidebar.markdown("[💻 GitHub](https://github.com/Brilliantkiptoo)")
+
 - 💼 [LinkedIn](https://www.linkedin.com/in/brilliant-kiptoo)
 - 💻 [GitHub](https://github.com/Brilliantkiptoo)
 - 📧 Email: [brilliantkip@gmail.com](mailto:brilliantkip@gmail.com)
